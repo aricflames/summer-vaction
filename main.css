@@ -1,0 +1,37 @@
+body{
+background-image: url("aaa.jpeg");
+}
+h1 {
+    color: red;
+font-size: 100px;
+font-family: sans-serif;
+}
+p { 
+color: red;
+font-size: 24px;
+font-family: sans-serif;
+}
+img {
+max width: 100%;
+}
+a:link {
+    color: red;
+}
+h2 {
+ font-size: 50px;
+  color: red;
+font-family: sans-serif;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
